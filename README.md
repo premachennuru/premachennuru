@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @premachennuru
+- 👋 Hi, I’m Prema Kumari
 - 👀 I’m interested in ...Automation Testing SE
 - 🌱 I’m currently learning ...Software Testing
 - 💞️ I’m looking to collaborate on ...mini Projects
